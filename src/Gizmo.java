@@ -1,3 +1,7 @@
+/**
+ * The Gizmo class represents gadgets that people purchase. Some Gizmo objects are
+ * electronic and others are not.
+ */
 public class Gizmo
 {
     // data fields

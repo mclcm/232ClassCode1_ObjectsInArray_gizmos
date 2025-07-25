@@ -1,3 +1,7 @@
+/**
+ * The OnlinePurchaseManager class manages a sequence of Gizmo objects
+ * that an individual has purchased from an online vendor.
+ */
 public class OnlinePurchaseManager
 {
     /** An array of purchased Gizmo objects, instantiated in the constructor. */
@@ -23,8 +27,8 @@ public class OnlinePurchaseManager
     /** Returns true if any pair of adjacent purchased Gizmo objects are equivalent, and
      * false otherwise, as described in part (b).
      */
-    public boolean hasAdjacentEqualPair()
-    {
+    public boolean hasAdjacentEqualPair() {
         // Part 9
+    }
 
 }

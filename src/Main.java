@@ -1,3 +1,7 @@
+/**
+ * The Main class for the Gizmo application uses the Gizmo and OnlinePurchaseManager
+ * Classes to manage a purchase transaction from a user.
+ */
 public class Main {
     public static void main(String[] args) {
 
